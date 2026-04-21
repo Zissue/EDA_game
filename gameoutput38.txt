@@ -1,5 +1,0 @@
-info: seed 11233
-info: loading game
-info: loaded game
-ERROR: Wrong number of players.
-Game: Game.cc:14: static void Game::run(std::vector<std::__cxx11::basic_string<char> >, std::istream&, std::ostream&, int): Assertion `np == (int)names.size()' failed.
